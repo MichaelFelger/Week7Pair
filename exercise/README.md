@@ -19,9 +19,9 @@ Here's the JSON object structure for a Cat Card:
 
 ```
 {
-    "id" : an integer that represents this particular card's unique identifier,
+    "catCardId" : an integer that represents this particular card's unique identifier,
     "imgUrl" : "A string containing the full URL to the cat image",
-    "fact" : "A string containing a cat fact",
+    "catFact" : "A string containing a cat fact",
     "caption" : "A string containing the caption for this particular card"
 }
 ```
